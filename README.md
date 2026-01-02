@@ -15,6 +15,8 @@ Most Enterprise AI implementations fail in two ways:
 ### 🧠 The Solution: Constitutional Architecture
 This repository houses a **Triple-Vector Protocol** for deploying safe, high-speed, and autonomous AI agents in regulated sectors (Fintech/Health).
 
+![FinFlux Security Architecture](architecture-diagram.png)
+
 ---
 
 ## 📂 Module Breakdown
